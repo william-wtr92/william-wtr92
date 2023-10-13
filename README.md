@@ -28,11 +28,11 @@
       alt="angular"/>
   </a>
   <a href="https://nextjs.org/docs" target="_blank"> 
-    <img src="https://img.shields.io/badge/Nextjs-000306.svg?style=for-the-badge&logo=next_js&logoColor=white"
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="nextjs"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -201,6 +201,6 @@
     <a href="https://github.com/william-wtr92">william-wtr92</a>
   </p>
   <p>
-    Last update: 13/10/2023
+    <strong>Last update: 13/10/2023</strong>
   </p>
 </div>
