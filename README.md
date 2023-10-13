@@ -1,8 +1,8 @@
-
-
-<div style="display: flex;">
-  <h1 align="center">Hi, I'm William <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-
+<div>
+  <h1 align="center">Hi, I'm William</h1>
+   <div align="center">
+     <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+   </div>
 </div>
 <h3 align="center">A passionate developer and a student from France.</h3>
 
@@ -15,12 +15,7 @@
 
 ---
 
-
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-
-
-
 
 <h3 align="center">Languages</h3>
 <p align="center">
