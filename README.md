@@ -201,6 +201,10 @@
     <a href="https://github.com/william-wtr92">william-wtr92</a>
   </p>
   <p>
+    <img src="https://komarev.com/ghpvc/?username=william-wtr92&label=Profile%20views&color=da1010&style=flat-square"/>
+  </p>
+  <p>
     <strong>Last update: 13/10/2023</strong>
   </p>
 </div>
+
