@@ -4,7 +4,9 @@
      <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
    </div>
 </div>
-<h3 align="center">A passionate developer and a student from France.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=A+passionate+developer+and+a+student+from+France"/>
+</p>
 
 <div align="center">
   <p>- 👨‍💻 I’m currently learning <strong>Spring Framework and DevOps</strong></p> 
