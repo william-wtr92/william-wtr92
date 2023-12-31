@@ -9,9 +9,10 @@
 </p>
 
 <div align="center">
-  <p>- 👨‍💻 I’m currently learning <strong>Spring Framework and DevOps</strong></p> 
+  <p>- 👨‍💻 I’m currently working on <strong>Spring Framework, Kubernetes, System Design & Algorithms</strong></p> 
   <p>- 🤝 Always looking for new projects and to learn new things</p>
   <p>- 📝 All of my projects are available https://github.com/william-wtr92</p>
+  <p>- 🔎 For algorithms, find me here on LeetCode: https://leetcode.com/william-wtr92/</p>
   <p>- 💬 Ask me about <strong>Web Development</strong> </p> 
 </div>
 
